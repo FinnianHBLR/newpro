@@ -1,0 +1,53 @@
+#circle{
+  background: #6da721;
+  border-radius: 50%;
+  width: 1300px;
+  height: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+#circlecontainer {
+  margin: auto;
+  width: 80%;
+  /*TO SEE CONTAINER border: 3px solid green; */
+
+  margin-top: -850px;
+}
+
+#portfoliocontainer{
+  text-align: center;
+  margin-top: -700px;
+  margin-left: 200px;
+  width: 70%;
+}
+
+#portfoliotext {
+  font-size: 150px;
+  color: white;
+}
+
+#lormContainer{
+  text-align: center;
+  margin-top: -130px;
+  margin-left: 10px;
+}
+
+#lormipsum{
+  font-size: 70px;
+  color: white;
+}
+
+
+#ptextContainer{
+ width: 30%;
+ margin-top: -50px;
+ margin-left: 670px;
+
+}
+
+#ptext{
+  color: white;
+}
+
